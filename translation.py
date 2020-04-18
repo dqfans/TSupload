@@ -31,6 +31,20 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
+    To upload a media to Telegram send a valid http link, you can also set a thumbnail and new name.
+
+👉 Get external download link by replying with /getlink 
+👉 Convert media file to video by replying with /converttovideo .
+👉 Convert media file to audio by replying with /converttoaudio 
+👉 Rename files by replying with /rename 
+👉 You can also set thumbnail.
+Generate custom thumbnail by replying with /generatecustomthumbnail 
+👉Take screenshots of Telegram media by replying with /generatescss 
+👉 Extract compressed Telegram media using /unzip .
+
+Get a Telegram sticker as a Telegram downloadable media.
+
+Type / for all commands
     
 --------
 Send /me to know current plan details"""
