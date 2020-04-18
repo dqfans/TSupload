@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hi {}, Thank You for using me.
+    START_TEXT = """Hi Ⓓⓤⓓⓔ, Thank You for using me.
 /help to know how to use me. Please Send a direct (video) link, and I will try to upload on Telegram.
 © @TSuploadbot
 Subscribe @TorrentStore if you 💔 using this bot..."""
