@@ -29,7 +29,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Expires on: {}"""
-    HELP_USER = """There are multiple things I can do:
+    HELP_USER = """𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐭𝐡𝐢𝐧𝐠𝐬 𝐈 𝐜𝐚𝐧 𝐝𝐨:​
   
 👉 Get external download link by replying with /getlink 
 👉 Convert media file to video by replying with /converttovideo .
