@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """𝐇𝐢, 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐦𝐞.
+    START_TEXT = """𝐇𝐢 {firstname}, 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐦𝐞.
 /help 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐡𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐦𝐞. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐞𝐧𝐝 𝐚 𝐝𝐢𝐫𝐞𝐜𝐭 (𝐯𝐢𝐝𝐞𝐨) 𝐥𝐢𝐧𝐤, 𝐚𝐧𝐝 𝐈 𝐰𝐢𝐥𝐥 𝐭𝐫𝐲 𝐭𝐨 𝐮𝐩𝐥𝐨𝐚𝐝 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦.​
 © @TSuploadbot 😍"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
