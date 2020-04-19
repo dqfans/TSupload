@@ -37,15 +37,12 @@ Expires on: {}"""
 👉 Rename files by replying with /rename 
 👉 You can also set thumbnail.
 Generate custom thumbnail by replying with /generatecustomthumbnail 
-👉Take screenshots of Telegram media by replying with /generatescss 
-👉 Extract compressed Telegram media using /unzip .
-
-Get a Telegram sticker as a Telegram downloadable media.
-
-Type / for all commands
-    
+👉 Take screenshots of Telegram media by replying with /generatescss 
+👉 Extract compressed Telegram media using /unzip 
+👉 Get a Telegram sticker as a Telegram downloadable media.
+𝚃𝚢𝚙𝚎 / 𝚏𝚘𝚛 𝚊𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜​
 --------
-Send /me to know current plan details"""
+𝐒𝐞𝐧𝐝 /me 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐩𝐥𝐚𝐧 𝐝𝐞𝐭𝐚𝐢𝐥𝐬​"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
