@@ -23,7 +23,7 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "Something is wrong with the URL you gave me. 🤦‍♀️"
+    NO_VOID_FORMAT_FOUND = "𝘚𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘪𝘴 𝘸𝘳𝘰𝘯𝘨 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘜𝘙𝘓 𝘺𝘰𝘶 𝘨𝘢𝘷𝘦 𝘮𝘦. 🤦‍♀️"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
