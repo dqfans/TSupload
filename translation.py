@@ -5,7 +5,7 @@ class Translation(object):
                 [
                     InlineKeyboardButton('Help', url='https://telegra.ph/Features-of-TS-ScreenshotBot-05-31'),
                     InlineKeyboardButton('Project Channel', url='https://t.me/TSproject')
-                ]
+                ]"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = ""
