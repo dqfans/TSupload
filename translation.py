@@ -10,10 +10,7 @@ class Translation(object):
                 [
                     InlineKeyboardButton('My Boss', url='https://t.me/TS_Boss')
                 ]
-            ]
-        )
-    ) 
-       """
+            ]"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = ""
